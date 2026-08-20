@@ -122,5 +122,5 @@ SELECT * FROM Transactions;
 DELETE FROM Accounts
 WHERE AccountID = 202;
 
-SELECT * FROM Accounts;
+SELECT * FROM Customers;
 
